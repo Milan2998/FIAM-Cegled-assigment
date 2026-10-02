@@ -482,7 +482,6 @@ footer {
   text-align: center;
 }
 
-/* ===== Footer jogi linkek ===== */
 .footer-links {
   display: flex;
   justify-content: center;
@@ -505,7 +504,6 @@ footer {
   text-decoration: underline;
 }
 
-/* ===== Jogi oldalak (adatvédelem, felhasználási feltételek) ===== */
 .legal-meta {
   margin-top: 15px;
   color: var(--text-muted);
